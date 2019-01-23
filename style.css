@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Lobster';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Lobster Regular'), local('Lobster-Regular'), url(https://fonts.gstatic.com/s/lobster/v20/neILzCirqoswsqX9zoymM5Ez.woff2) format('woff2');
+    unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+
+.coffebeans {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    text-align: center;
+    background-color: #C0C0C0;
+    position: relative;
+    top: 100px;
+
+}
+.kepala {
+    font-family: Lobster;
+    font-size: auto;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    height: 10%;
+    z-index: 10;
+    border: 3px solid black;
+    background-color: black;
+    color: white;
+    top:0;
+    display: block;
+}
+
+.acehgayo {
+    border: 3px transparent black;
+    width: 50%;
+    height: auto;
+    clear: none;
+    float: right;
+}
+.toraja {
+    border: 3px transparent black;
+    width: 50%;
+    height: auto;
+    clear: none;
+    position: relative;
+    bottom: 100%;
+    float: left;
+    
+}
+.flores {
+    border: 3px transparent black;
+    width: 50%;
+    height: auto;
+    clear: none;
+    float: right;
+}
+.luwak {
+    border: 3px transparent black;
+    width: 50%;
+    height: auto;
+    clear: none;
+    float: left;
+}
+.blackpearl {
+    border: 3px transparent black;
+    width: 50%;
+    height: auto;
+    clear: none;
+    float: right
+}
+.java {
+    border: 3px transparent black;
+    width: 50%;
+    height: auto;
+    clear: none;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+}
